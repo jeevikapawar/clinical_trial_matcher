@@ -22,12 +22,12 @@ This project develops a matching algorithm that takes patient data as input and 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/clinical_trial_matcher.git
-   cd clinical_trial_matcher
+   -git clone https://github.com/yourusername/clinical_trial_matcher.git
+   -cd clinical_trial_matcher
 
 2. Create and activate a virtual environment:
    python -m venv .venv
-   source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
+   source .venv/bin/activate -
    
 
 3. Install the required packages: pip install -r requirements.txt
